@@ -245,7 +245,7 @@ TECHS
 
 .techs {
   display: flex;
-  gap: 30px;
+  gap: 40px;
   padding: 25px;
   border: 2px solid var(--border-color);
   border-radius: 10px;
@@ -464,6 +464,10 @@ CELLPHONE
   .links {
     justify-content: center;
     align-items: center;
+  }
+
+  .techs {
+    gap: 25px;
   }
   
   footer {
