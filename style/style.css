@@ -245,7 +245,7 @@ TECHS
 
 .techs {
   display: flex;
-  gap: 40px;
+  gap: 50px;
   padding: 25px;
   border: 2px solid var(--border-color);
   border-radius: 10px;
